@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CristianAlegreBustos
 - 👀 I’m interested in software developments and new technologies
-- 🌱 I’m currently learning fronted web developer like online student in Brigham Young University - Idaho
-- 💞️ I’m looking to collaborate on projects that helps me to learn more about the new technologies.
+-  I’m currently learning fronted web developer like online student in Brigham Young University - Idaho
+-  I’m looking to collaborate on projects that helps me to learn more about the new technologies.
 - 📫 Reach me at my Linkedln profile https://www.linkedin.com/in/cristian-nahuel-alegre-bustos-4613311a5/
 
 <!---
